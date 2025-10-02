@@ -71,4 +71,30 @@
     gap:3rem;
     justify-content: center;
     line-height: 2px;
- }         
+ }
+#clear{
+    padding: 10px 20px;
+    font-size: 20px;
+    color: hsl(0, 55%, 4%);
+    background: transparent;
+    border: 2px solid black;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+     text-align: center;
+     align-items: center;
+ }    
+ #clear:hover {
+    color: rgb(255, 255, 255);
+    background: black;
+    border-color: gray;
+ }  
+#btncontainer{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+}
+
