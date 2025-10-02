@@ -27,7 +27,7 @@
         max-width: 800px;
         margin: 0 auto;
         text-align: center;
-        height: 600px;
+        height: 575px;
         line-height: 20px;
     }
     .Decrement{
@@ -97,4 +97,5 @@
   gap: 2rem;
   justify-content: center;
 }
+
 
