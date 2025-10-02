@@ -11,7 +11,6 @@ const btn10 = document.getElementById('Decrement50');
 const btn11 = document.getElementById('Increment100');
 const btn12 = document.getElementById('Decrement100');
 const btn13 = document.getElementById('clear');
-
 const container = document.getElementById('counter');
 let count = 0;
 
@@ -73,6 +72,4 @@ btn13.addEventListener('click', () => {
   count = 0;
   container.innerHTML = count;
 });
-
  
-
