@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
 .Increment{
     padding: 15px 40px;
       font-size: 20px;
@@ -97,5 +99,17 @@
   gap: 2rem;
   justify-content: center;
 }
+p{
+  color:black;
+  margin-bottom: 1rem;
+  font-size: 18px;
+  text-align: center;
+  line-height: 1.5;
+  margin-top: 2rem;
+  padding: 1rem;
+  font-family: poppins;
+
+}
+
 
 
